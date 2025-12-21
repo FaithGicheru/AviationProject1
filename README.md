@@ -27,7 +27,7 @@ A weighted severity score  was created using injury outcomes to measure risk
 This visualization shows aircraft manufacturers with the lowest average accident severity scores, highlighting safer aircraft make for both private and commercial operations.
 
 ### 2. Fatal Injuries by Aircraft Damage Level
-This barplot demonstrates that the more the aircraft damage, the higher the fatal injuries.
+This barplot illustrates that the greater the aircraft damage, the higher the number of fatal injuries.
 
 ### 3. Average Accident Severity by Weather Condition
 This visualization shows that poor weather conditions are associated with higher accident severity, indicating increased operational risk.
@@ -55,5 +55,5 @@ This visualization shows that poor weather conditions are associated with higher
 
 ## Links
 - [Final Jupyter Notebook](notebooks/final_notebook.ipynb)
-- [Interactive Dashboard](dashboard/)
-- [Presentation Slides](presentation/)
+- Interactive dashboard[https://public.tableau.com/authoring/Aircraftoperationalriskanalysis/Dashboard1#1]
+- [Presentation](presentation.pdf/)

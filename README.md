@@ -45,13 +45,11 @@ This visualization shows that poor weather conditions are associated with higher
 - Aircraft models with strong structural resilience should be considered as they are less damaged during accidents, which in turn  reduces injury severity.
 
 ## Repository Structure
-- `notebooks/` – Jupyter Notebook containing analysis
+- `notebook/` – Jupyter Notebook containing analysis
 - `data/` – Aviation accident dataset
 - `presentation/` – Non-technical presentation slides
 - `dashboard/` – Interactive dashboard
-- `.gitignore` – Files excluded from version control
-
----
+  
 
 ## Links
 - Jupyter Notebook[project1.ipynb]

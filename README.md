@@ -55,5 +55,5 @@ This visualization shows that poor weather conditions are associated with higher
 
 ## Links
 - [Final Jupyter Notebook](notebooks/final_notebook.ipynb)
-- Interactive dashboard[https://public.tableau.com/authoring/Aircraftoperationalriskanalysis/Dashboard1#1]
+- Interactive dashboard[https://public.tableau.com/views/Aircraftoperationalriskanalysis/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link]
 - [Presentation](presentation.pdf/)
